@@ -12,6 +12,8 @@ Documentation Index
 * `SciELO Manager </projects/scielo-manager/en/latest/>`_ - narrative documentation
   for SciELO Manager's releases.
 
+* `SciELO Books </projects/scielo-books/en/latest/>`_ - narrative documentation
+  for SciELO Books' releases.
 
 Support
 -------
