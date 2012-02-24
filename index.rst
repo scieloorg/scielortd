@@ -3,20 +3,39 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to SciELO's documentation!
-==================================
+The SciELO Project Documentation
+================================
 
-Contents:
+Documentation Index
+-------------------
 
-.. toctree::
-   :maxdepth: 2
+* `SciELO Manager </projects/scielo-manager/en/latest/>`_ - narrative documentation
+  for SciELO Manager's releases.
 
 
+Support
+-------
 
-Indices and tables
-==================
+Technical questions related to SciELO projects, like installation issues, can be discussed
+on the `scielo-discuss mail list <http://groups.google.com/group/scielo-discuss/>`_.
 
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+Development questions related to SciELO projects can be discussed on the
+`scielo-dev mail list <http://groups.google.com/group/scielo-dev/>`_.
 
+
+.. topic:: Using Support Wisely
+
+   Before asking a technical question on the maillist(s), please
+   make sure to try the following things (paraphrased from `Before You Ask
+   <http://www.catb.org/~esr/faqs/smart-questions.html#before>`_):
+
+   - Try to find an answer by reading the manual.
+
+   - Try to find an answer by searching the maillist archives.
+
+   - Try to find an answer by searching the Web.
+
+   - Try to find an answer by inspection or experimentation.
+
+   - If you're a programmer, try to find an answer by reading the source
+     code.
