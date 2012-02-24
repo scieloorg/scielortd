@@ -9,6 +9,9 @@ The SciELO Project Documentation
 Documentation Index
 -------------------
 
+* `SciELO Site </projects/scielo-site/en/latest/>`_ - narrative documentation
+  for SciELO Site' releases.
+
 * `SciELO Manager </projects/scielo-manager/en/latest/>`_ - narrative documentation
   for SciELO Manager's releases.
 
