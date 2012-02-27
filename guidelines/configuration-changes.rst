@@ -7,8 +7,7 @@ Source Code Versioning
 While developing softwares, tools, applications, services or any kind of IT product for the SciELO 
 Project, the developer must:
 
-* Be familiarized with `Git <http://git-scm.com/>`_ version control system `ProGit Book 
-<http://progit.org/book/>`_
+* Be familiarized with `Git <http://git-scm.com/>`_ version control system `ProGit Book <http://progit.org/book/>`_
 * Have an account at `GitHub <http://www.github.com/scieloorg>`_
 * Participate at the (`SciELO Project <http://www.github.com/scieloorg>`_) at GitHub
 * Create a fork of the project that is under development at GitHub to your personal account
