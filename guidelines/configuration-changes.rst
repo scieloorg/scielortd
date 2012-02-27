@@ -1,17 +1,33 @@
 Configuration and Change Management
 ===================================
 
+Source Code Versioning
+----------------------
+
 While developing softwares, tools, applications, services or any kind of IT product for the SciELO Project, the developer must:
 
-1. Be familiarized with `Git <http://git-scm.com/>`_ version system `ProGit Book <http://progit.org/book/>`_
-2. Have a free developer account at `GitHub <http://www.github.com/scieloorg>`_
-3. Participate at the (`SciELO Project <http://www.github.com/scieloorg>`_) at GitHub
-4. Create a fork of the project that is under development at GitHub to your personal account
-5. Always send "Pull Requests" to be validated by the SciELO Team
+* Be familiarized with `Git <http://git-scm.com/>`_ version system `ProGit Book <http://progit.org/book/>`_
+* Have a free developer account at `GitHub <http://www.github.com/scieloorg>`_
+* Participate at the (`SciELO Project <http://www.github.com/scieloorg>`_) at GitHub
+* Create a fork of the project that is under development at GitHub to your personal account
+* Always send "Pull Requests" to be validated by the SciELO Team
 
 The SciELO IT team, must:
 
-1. Create a custom project that will be used in each development
-2. Validate each third-party "Pull Requests"
-3. Give feedback for each "Pull Requests"
-4. Reject each "Pull Requests" that is not in compliance with the development rules
+* Create a custom project that will be used in each development
+* Validate each third-party "Pull Requests"
+* Give feedback for each "Pull Requests"
+* Reject each "Pull Requests" that is not in compliance with the development rules
+
+Bugs and New Features
+---------------------
+
+While developing softwares, tools, applications, services or any kind of IT product for the SciELO Project, the developer must:
+
+* Make use of a tracking changes system
+* The tracking changes system could be a third-party system
+* It's important to keep references to all the available documentations
+
+The SciELO IT team, must:
+
+* Provide an tracking change system if the developer does not have one
