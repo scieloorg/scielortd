@@ -44,3 +44,10 @@ Development questions related to SciELO projects can be discussed on the
 
    - If you're a programmer, try to find an answer by reading the source
      code.
+
+Development Guidelines
+----------------------
+
+* Coding Style and Standards
+* Unit Testing
+* Adding Dependencies and Third-party Software
