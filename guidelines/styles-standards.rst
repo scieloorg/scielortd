@@ -41,7 +41,8 @@ to know what your changelog entry means.
 Coding Style
 ------------
 
-Currently we only support codes written in PHP5.2, or latest, and Python 2.6 or latest.
+Currently we only support codes written in PHP5.2 or latest, and Python 2.6 or latest. All
+codes should follow it's respective style-guide.
 
 * `Python: Google Styleguide <http://google-styleguide.googlecode.com/svn/trunk/pyguide.html>`_
 * `PHP: Zend Coding Style <http://framework.zend.com/manual/en/coding-standard.coding-style.html>`_
