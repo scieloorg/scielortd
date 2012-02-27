@@ -48,6 +48,13 @@ Development questions related to SciELO projects can be discussed on the
 Development Guidelines
 ----------------------
 
-* Coding Style and Standards
-* Unit Testing
-* Adding Dependencies and Third-party Software
+Any product or piece of code to be incorporated into the SciELO Project must
+follow certain procedures and development standards in order to ensure quality,
+consistency and maintenance of products that are part of the SciELO Project.
+
+.. toctree::
+   :maxdepth: 1
+
+   guidelines/styles-standards
+   guidelines/unit-testing
+   guidelines/dependencies-software
