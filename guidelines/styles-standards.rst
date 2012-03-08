@@ -42,7 +42,8 @@ Coding Style
 ------------
 
 Currently we only support codes written in PHP5.2 or latest, and Python 2.6 or latest. All
-codes should follow it's respective style-guide.
+codes should follow it's respective style-guide. Recent projects tend to be developed
+with Python using Google Styleguide as a base for coding standards. Indentation on template files are defined as 2 spaces, in order to prevent excessive depth.
 
 * `Python: Google Styleguide <http://google-styleguide.googlecode.com/svn/trunk/pyguide.html>`_
 * `PHP: Zend Coding Style <http://framework.zend.com/manual/en/coding-standard.coding-style.html>`_
