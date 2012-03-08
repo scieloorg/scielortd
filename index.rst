@@ -57,5 +57,6 @@ consistency and maintenance of products that are part of the SciELO Project.
 
    guidelines/configuration-changes
    guidelines/styles-standards
+   guidelines/architechture
    guidelines/unit-testing
    guidelines/dependencies-software
