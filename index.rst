@@ -1,10 +1,7 @@
-.. SciELO documentation master file, created by
-   sphinx-quickstart on Fri Feb 24 16:34:28 2012.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
-
 The SciELO Project Documentation
 ================================
+
+.. _documentation_index:
 
 Documentation Index
 -------------------
@@ -15,6 +12,8 @@ Documentation Index
   for SciELO Manager's releases.
 
 * `SciELO Books </projects/scielo-books/en/latest/>`_ - set of applications behind SciELO Books project.
+
+.. _tech_support:
 
 Support
 -------
@@ -43,6 +42,8 @@ Development questions related to SciELO projects can be discussed on the
    - If you're a programmer, try to find an answer by reading the source
      code.
 
+.. _dev_guidelines:
+
 Development Guidelines
 ----------------------
 
@@ -58,3 +59,8 @@ consistency and maintenance of products that are part of the SciELO Project.
    guidelines/architecture
    guidelines/unit-testing
    guidelines/dependencies-software
+
+.. toctree::
+   :hidden:
+
+   about
