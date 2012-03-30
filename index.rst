@@ -9,14 +9,12 @@ The SciELO Project Documentation
 Documentation Index
 -------------------
 
-* `SciELO Site </projects/scielo-site/en/latest/>`_ - narrative documentation
-  for SciELO Site' releases.
+* `SciELO Site </projects/scielo-site/en/latest/>`_ - the application behind http://www.scielo.br
 
 * `SciELO Manager </projects/scielo-manager/en/latest/>`_ - narrative documentation
   for SciELO Manager's releases.
 
-* `SciELO Books </projects/scielo-books/en/latest/>`_ - narrative documentation
-  for SciELO Books' releases.
+* `SciELO Books </projects/scielo-books/en/latest/>`_ - set of applications behind SciELO Books project.
 
 Support
 -------
