@@ -3,13 +3,16 @@ The SciELO Project Documentation
 
 .. _documentation_index:
 
+General Info
+------------
+
 .. toctree::
     :maxdepth: 2
 
     about.rst
 
-Documentation Index
--------------------
+Applications Documentation Index
+--------------------------------
 
 * `SciELO Site </projects/scielo-site/en/latest/>`_ - the application behind http://www.scielo.br
 
