@@ -3,6 +3,11 @@ The SciELO Project Documentation
 
 .. _documentation_index:
 
+.. toctree::
+    :maxdepth: 2
+
+    about.rst
+
 Documentation Index
 -------------------
 
