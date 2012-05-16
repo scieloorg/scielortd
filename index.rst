@@ -14,7 +14,9 @@ General Info
 Applications Documentation Index
 --------------------------------
 
-* `SciELO Site </projects/scielo-site/en/latest/>`_ - the application behind http://www.scielo.br
+* `SciELO Site for Linux </projects/scielo-site-linux/en/latest/>`_ - the application behind http://www.scielo.br
+
+* `SciELO Site for Windows </projects/scielo-site-windows/en/latest/>`_ - the application behind http://www.scielo.br
 
 * `SciELO Manager </projects/scielo-manager/en/latest/>`_ - narrative documentation
   for SciELO Manager's releases.
