@@ -14,7 +14,7 @@ General Info
 Applications Documentation Index
 --------------------------------
 
-* `SciELO Site for Linux </projects/scielo-site-linux/en/latest/>`_ - the application behind http://www.scielo.br
+* `SciELO Site for Linux </projects/scielo-site/en/latest/>`_ - the application behind http://www.scielo.br
 
 * `SciELO Site for Windows </projects/scielo-site-windows/en/latest/>`_ - the application behind http://www.scielo.br
 
