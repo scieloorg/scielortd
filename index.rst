@@ -3,10 +3,20 @@ The SciELO Project Documentation
 
 .. _documentation_index:
 
-Documentation Index
--------------------
+General Info
+------------
 
-* `SciELO Site </projects/scielo-site/en/latest/>`_ - the application behind http://www.scielo.br
+.. toctree::
+    :maxdepth: 2
+
+    about.rst
+
+Applications Documentation Index
+--------------------------------
+
+* `SciELO Site for Linux </projects/scielo-site/en/latest/>`_ - the application behind http://www.scielo.br
+
+* `SciELO Site for Windows </projects/scielo-site-windows/en/latest/>`_ - the application behind http://www.scielo.br
 
 * `SciELO Manager </projects/scielo-manager/en/latest/>`_ - narrative documentation
   for SciELO Manager's releases.
