@@ -13,6 +13,18 @@ Documentation Index
 
 * `SciELO Books </projects/scielo-books/en/latest/>`_ - set of applications behind SciELO Books project.
 
+
+.. _developer_api:
+
+Developer API
+-------------
+
+.. toctree::
+   :maxdepth: 1
+
+   api/ref-scielo
+
+
 .. _tech_support:
 
 Support
