@@ -23,6 +23,7 @@ Applications Documentation Index
 
 * `SciELO Books </projects/scielo-books/en/latest/>`_ - set of applications behind SciELO Books project.
 
+* `PC-Programs </projects/scielo-pc-programs/en/latest/>`_ - Windows based toolchain to produce a SciELO journal's site  
 
 .. _developer_api:
 
