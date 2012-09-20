@@ -21,7 +21,9 @@ Applications Documentation Index
 * `SciELO Manager </projects/scielo-manager/en/latest/>`_ - narrative documentation
   for SciELO Manager's releases.
 
-* `SciELO Books </projects/scielo-books/en/latest/>`_ - set of applications behind SciELO Books project.
+* `SciELO Books </projects/scielo-books/en/latest/>`_ - set of applications behind SciELO Books project
+
+* `Ratchet </projects/ratchet/en/latest/>`_ - Access stats tools for electronic journal publishing
 
 * `PC-Programs </projects/scielo-pc-programs/en/latest/>`_ - Windows based toolchain to produce a SciELO journal's site  
 
