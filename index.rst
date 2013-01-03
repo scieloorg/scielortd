@@ -31,6 +31,11 @@ Applications Documentation Index
 
 .. _developer_api:
 
+SciELO Websites Availability
+----------------------------
+
+Take a look at the last week availability at: http://stats.pingdom.com/u023lexvy750
+
 Developer API
 -------------
 
