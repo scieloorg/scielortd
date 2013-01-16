@@ -29,6 +29,8 @@ Applications Documentation Index
 
 * `PC-Programs </projects/scielo-pc-programs/en/latest/>`_ - Windows based toolchain to produce a SciELO journal's site  
 
+* `XML Converter </projects/scielo-journal-publishing-xml-converter/en/latest/>`_ - program to generate articles databases from XML files 
+
 .. _developer_api:
 
 SciELO Websites Availability
