@@ -13,12 +13,12 @@ used in third party developments.
 
 **Programming Languages**
 
-    * Python
+    * Python 2.7 or upper
 
 **Frameworks**
 
-    * Django
-    * Pyramid
+    * Django 1.4.4 or upper
+    * Pyramid 1.4 or upper
 
 **API's**
 
@@ -26,5 +26,5 @@ used in third party developments.
 
 **Databases**
 
-    * PostgreSQL
-    * MongoDB
+    * PostgreSQL 9.2.3 or upper
+    * MongoDB 2.2.3 or upper
