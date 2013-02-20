@@ -28,3 +28,7 @@ used in third party developments.
 
     * PostgreSQL 9.2.3 or upper
     * MongoDB 2.2.3 or upper
+
+**OS**
+
+    * Linux CentOS
