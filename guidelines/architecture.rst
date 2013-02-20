@@ -8,7 +8,8 @@ Development Architecture
 Frameworks, api's and components accepted
 =========================================
 
-There is a list of all technologies accepted by SciELO to be used in third party developments.
+For new developments, there is a list of all technologies accepted by SciELO to be 
+used in third party developments.
 
 **Programming Languages**
 
@@ -16,8 +17,8 @@ There is a list of all technologies accepted by SciELO to be used in third party
 
 **Frameworks**
 
-    Django
-    Pyramid
+    * Django
+    * Pyramid
 
 **API's**
 
@@ -25,5 +26,5 @@ There is a list of all technologies accepted by SciELO to be used in third party
 
 **Databases**
 
-    PostgreSQL
-    MongoDB
+    * PostgreSQL
+    * MongoDB
