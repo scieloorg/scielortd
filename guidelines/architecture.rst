@@ -13,7 +13,7 @@ used in third party developments.
 
 **Programming Languages**
 
-    Python
+    * Python
 
 **Frameworks**
 
@@ -22,7 +22,7 @@ used in third party developments.
 
 **API's**
 
-    Updated Python API's
+    * Updated Python API's
 
 **Databases**
 
