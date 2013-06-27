@@ -18,6 +18,8 @@ Applications Documentation Index
 
 * `SciELO Site for Windows </projects/scielo-site-windows/en/latest/>`_ - the application behind http://www.scielo.br
 
+* `Balaio </projects/balaio/en/latest/>`_ - Ferramenta para triagem e submissão de artigos para o SciELO.
+
 * `SciELO Manager </projects/scielo-manager/en/latest/>`_ - narrative documentation
   for SciELO Manager's releases.
 
@@ -27,9 +29,9 @@ Applications Documentation Index
 
 * `Ratchet </projects/ratchet/en/latest/>`_ - Access stats tools for electronic journal publishing
 
-* `PC-Programs </projects/scielo-pc-programs/en/latest/>`_ - Windows based toolchain to produce a SciELO journal's site  
+* `PC-Programs </projects/scielo-pc-programs/en/latest/>`_ - Windows based toolchain to produce a SciELO journal's site
 
-* `XML Converter </projects/scielo-journal-publishing-xml-converter/en/latest/>`_ - program to generate articles databases from XML files 
+* `XML Converter </projects/scielo-journal-publishing-xml-converter/en/latest/>`_ - program to generate articles databases from XML files
 
 .. _developer_api:
 
