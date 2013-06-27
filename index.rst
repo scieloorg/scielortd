@@ -18,7 +18,7 @@ Applications Documentation Index
 
 * `SciELO Site for Windows </projects/scielo-site-windows/en/latest/>`_ - the application behind http://www.scielo.br
 
-* `Balaio </projects/balaio/en/latest/>`_ - Ferramenta para triagem e submissão de artigos para o SciELO.
+* `Balaio </projects/balaio/en/latest/>`_ - Ferramenta para triagem e submissão de artigos no SciELO.
 
 * `SciELO Manager </projects/scielo-manager/en/latest/>`_ - narrative documentation
   for SciELO Manager's releases.
