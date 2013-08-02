@@ -48,6 +48,8 @@ Developer API
 
    api/ref-scielo
 
+* `scieloapi.py </projects/scieloapipy/en/latest/>`_ - Python client library for accessing SciELO metadata.
+
 
 .. _tech_support:
 
