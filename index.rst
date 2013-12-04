@@ -20,6 +20,8 @@ Applications Documentation Index
 
 * `Balaio </projects/balaio/en/latest/>`_ - Ferramenta para triagem e submissão de artigos no SciELO.
 
+* `Cited By SciELO </projects/citedby/en/latest/>`_ - API para listar citações concedidas a artigos.
+
 * `SciELO Manager </projects/scielo-manager/en/latest/>`_ - narrative documentation
   for SciELO Manager's releases.
 
