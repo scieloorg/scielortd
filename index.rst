@@ -14,7 +14,7 @@ General Info
 Applications Documentation Index
 --------------------------------
 
-* `PC-Programs </projects/scielo-pc-programs/en/latest/>`_ - Windows based toolchain to produce a SciELO journal's site
+* `SciELO PC-Programs </projects/scielo-pc-programs/en/latest/>`_ - Windows based toolchain to produce a SciELO journal's site
 
 * `SciELO Site for Windows </projects/scielo-site-windows/en/latest/>`_ - the application behind http://www.scielo.br
 
