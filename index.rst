@@ -33,6 +33,8 @@ Applications Documentation Index
 
 * `Balaio </projects/balaio/en/latest/>`_ - Ferramenta para triagem e submissão de artigos no SciELO.
 
+* `Publishing Schema </projects/scielo-publishing-schema/en/latest/>`_ - Schema para deposito de artigos na metodologia SciELO.
+
 
 .. _developer_api:
 
