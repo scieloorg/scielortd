@@ -36,7 +36,7 @@ Applications Documentation Index
 SciELO Publishing Schema
 ------------------------
 
-* `Guidelines </projects/scielo-publishing-schema/en/latest/>`_ - Schema para deposito de artigos na metodologia SciELO.
+* `Guidelines </projects/scielo-publishing-schema/en/1.0-branch/>`_ - Schema para deposito de artigos na metodologia SciELO.
 
 
 .. _developer_api:
