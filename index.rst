@@ -22,7 +22,7 @@ Applications Documentation Index
 
 * `SciELO Books </projects/scielo-books/en/latest/>`_ - set of applications behind SciELO Books project
 
-* `Cited By SciELO </projects/citedby/en/latest/>`_ - API para listar citações concedidas a artigos.
+* `CitedBy RESTful API </projects/citedby/en/latest/>`_ - API to retrieve citations from SciELO articles.
 
 * `Journals OPAC </projects/journals-opac/en/latest/>`_ - narrative documentation for Journals OPAC releases.
 
