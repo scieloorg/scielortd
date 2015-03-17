@@ -28,6 +28,8 @@ Applications Documentation Index
 
 * `Ratchet </projects/ratchet/en/latest/>`_ - Access stats tools for electronic journal publishing
 
+* `Wayta </projects/wayta/en/latest/>`_ - API to suggest institutions and countries names through a given string.
+
 * `SciELO Manager </projects/scielo-manager/en/latest/>`_ - narrative documentation
   for SciELO Manager's releases.
 
