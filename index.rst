@@ -64,12 +64,6 @@ Developer API
 Support
 -------
 
-Technical questions related to SciELO projects, like installation issues, can be discussed
-on the `scielo-discuss mail list <http://groups.google.com/group/scielo-discuss/>`_.
-
-Development questions related to SciELO projects can be discussed on the
-`scielo-dev mail list <http://groups.google.com/group/scielo-dev/>`_.
-
 
 .. topic:: Using Support Wisely
 
@@ -87,6 +81,29 @@ Development questions related to SciELO projects can be discussed on the
 
    - If you're a programmer, try to find an answer by reading the source
      code.
+
+For technical questions related to SciELO projects, like installation issues, can be discussed
+on the `scielo-discuss mail list <http://groups.google.com/group/scielo-discuss/>`_.
+
+**How to subscribe**
+
+    Send an e-mail to: **scielo-discuss+subscribe@googlegroups.com**
+
+**How to unsubscribe**
+
+    Send an e-mail to: **scielo-discuss+unsubscribe@googlegroups.com**
+
+
+For development questions related to SciELO projects can be discussed on the
+`scielo-dev mail list <http://groups.google.com/group/scielo-dev/>`_.
+
+**How to subscribe**
+
+    Send an e-mail to: **scielo-dev+subscribe@googlegroups.com**
+
+**How to unsubscribe**
+
+    Send an e-mail to: **scielo-dev+unsubscribe@googlegroups.com**
 
 .. _dev_guidelines:
 
