@@ -22,8 +22,6 @@ Applications Documentation Index
 
 * `SciELO Books </projects/scielo-books/en/latest/>`_ - set of applications behind SciELO Books project
 
-* `CitedBy RESTful API </projects/citedby/en/latest/>`_ - API to retrieve citations from SciELO articles.
-
 * `Journals OPAC </projects/journals-opac/en/latest/>`_ - narrative documentation for Journals OPAC releases.
 
 * `Ratchet </projects/ratchet/en/latest/>`_ - Access stats tools for electronic journal publishing
@@ -56,8 +54,7 @@ Developer API
 
    api/ref-scielo
 
-* `scieloapi.py </projects/scieloapipy/en/latest/>`_ - Python client library for accessing SciELO metadata.
-
+* `CitedBy RESTful API </projects/citedby/en/latest/>`_ - API to retrieve citations from SciELO articles.
 
 .. _tech_support:
 
