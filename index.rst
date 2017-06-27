@@ -53,6 +53,7 @@ Developer API
    :maxdepth: 1
 
    api/ref-scielo
+* `ArticleMeta RESTful API </projects/articlemeta/en/latest/>`_ - API to retrieve metadata from SciELO articles, journals, issues and collections.
 * `CitedBy RESTful API </projects/citedby/en/latest/>`_ - API to retrieve citations from SciELO articles.
 
 .. _tech_support:
